@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ShohrabTaxi</string>
+    <string name="api_base_url">http://redirect.mytaxi.net</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="car2go">Cars from Car2Go</string>
+
+</resources>
